@@ -65,7 +65,7 @@ export default function Home() {
             {user ? "Go to Diary" : "Claim Your Tax Cut Now"}
           </Link>
           <Link
-            href="/learn-more"
+            href="/support"
             className="border-2 border-blue-700 text-blue-700 px-8 py-4 rounded-full font-semibold hover:bg-blue-50 transition text-lg"
           >
             Learn More
